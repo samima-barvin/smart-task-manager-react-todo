@@ -25,16 +25,10 @@ This app helps users manage daily tasks efficiently with features like add, edit
 
 ---
 
-## 📸 Project Preview
-
-(Add screenshot here later)
-
----
-
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/smart-task-manager-react-todo.git
+git clone https://github.com/samima-barvin/smart-task-manager-react-todo.git
 cd smart-task-manager-react-todo
 npm install
 npm start
